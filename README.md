@@ -2,7 +2,7 @@
 Image cleaning for skin cancer diagnosis with OpenCV. It is a preprocessing stage so that the image can be used in the diagnosis of skin cancer.
 With the code I have written, I remove the hairs on the images and make the images ready for machine learning.
 
------------------------------------------------------------------------Results-------------------------------------------------------------------------
+-----------------------------------------------------------------------Results
 ![image](https://user-images.githubusercontent.com/58533563/187205031-391fa9f9-3f2b-47d9-958f-1e1e6fbbfe94.png) ![image](https://user-images.githubusercontent.com/58533563/187205089-268c7cd1-100f-43f6-b680-e2c202318f82.png)
 ![image](https://user-images.githubusercontent.com/58533563/187205452-f44cab0d-39f9-447d-861d-d8a00e469e9c.png) ![image](https://user-images.githubusercontent.com/58533563/187205480-9d09adef-4e4b-48dd-a676-928d662a896c.png)
 ![image](https://user-images.githubusercontent.com/58533563/187205519-90315aa8-ff47-48d1-8c03-0168a456efac.png) ![image](https://user-images.githubusercontent.com/58533563/187205563-2a1e1b3b-89a1-4095-b72c-372dc16b047c.png)
